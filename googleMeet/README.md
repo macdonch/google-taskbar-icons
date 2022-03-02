@@ -1,6 +1,6 @@
 # GoogleMeet Shortcut
 
-This shortcut opens google mmet as an application window. The shortcut can be added to the windows taskbar.
+This shortcut opens google meet as an application window. The shortcut can be added to the windows taskbar.
 
 ### Installing
 
