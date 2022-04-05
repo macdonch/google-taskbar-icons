@@ -1,6 +1,6 @@
 # Gmail Shortcut
 
-This shortcut opens Gmail in a new brower window. The shortcut can be added to the windows taskbar.
+This shortcut opens Gmail as an application window. The shortcut can be added to the windows taskbar.
 
 ### Installing
 
